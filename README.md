@@ -24,11 +24,11 @@ Masina Controlata prin Modul WIFI
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](https://ibb.co/p0WSCGm)
+![Block Diagram](schemabloc.png)
 
 ### Schematic
 
-![Schematic](https://ibb.co/fX922Zx)
+![Schematic](schemaelec.png)
 
 ### Components
 
