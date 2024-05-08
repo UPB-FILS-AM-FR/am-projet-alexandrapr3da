@@ -6,7 +6,8 @@ Masina Controlata prin Modul WIFI
 
 ## Description
 
-    Masina este controlata prin intermediul placutei Arduino R4 WIFI. Este capabila sa mearga spre stanga, dreapta, inainte si inapoi fiind controlata prin aplicatia Iot Remote. Senzorul ultrasonic din fata ei (sub forma de “faruri” ale unei masini adevarate) o opreste din a inainta si a se lovi de un obstacol.
+    Masina este controlata prin intermediul placutei Arduino R4 WIFI. Este capabila sa mearga spre stanga, dreapta, inainte si inapoi fiind controlata prin aplicatia Iot Remote. 
+    Senzorul ultrasonic din fata ei (sub forma de “faruri” ale unei masini adevarate) o opreste din a inainta si a se lovi de un obstacol.
 
 ## Motivation
 
@@ -61,8 +62,8 @@ Masina Controlata prin Modul WIFI
 
 [Resurse Hardware](https://www.sigmanortec.ro/Kit-Smart-Car-4WD-Bluetooth-IR-Ultrasunete-p136281349)
 
-[Schema electrica](https://www.hackster.io/angadiameya007/bluetooth-controlled-car-with-arduino-uno-534fdd)
+[Inspiratie schema electrica](https://www.hackster.io/angadiameya007/bluetooth-controlled-car-with-arduino-uno-534fdd)
 
-[Schema bloc](https://www.researchgate.net/figure/Fig-1-Block-Diagram-of-recently-used-in-robotic-car-construction_fig1_292072427)
+[Inspiratie schema bloc](https://www.researchgate.net/figure/Fig-1-Block-Diagram-of-recently-used-in-robotic-car-construction_fig1_292072427)
 
 [Tutorial](https://www.youtube.com/watch?v=1n_KjpMfVT0)
