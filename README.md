@@ -28,9 +28,15 @@ Masina Controlata prin Modul WIFI
 
 ### Schematic
 
-![Schematic](schemaelec.png)
+![Schematic](schemaelec2.jpg)
 
 ### Components
+
+> -|--------|--------|-------|
+-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
+-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
+-| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
+-| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
 
 4 x Motoare de curent continuu
 4 x Roti
@@ -45,7 +51,7 @@ Masina Controlata prin Modul WIFI
 20 fire Mama Mama
 
 ### Libraries
-
+#include "thingProperties.h"
 
 ## Log
 
@@ -61,8 +67,6 @@ Masina Controlata prin Modul WIFI
 ## Reference links
 
 [Resurse Hardware](https://www.sigmanortec.ro/Kit-Smart-Car-4WD-Bluetooth-IR-Ultrasunete-p136281349)
-
-[Inspiratie schema electrica](https://www.hackster.io/angadiameya007/bluetooth-controlled-car-with-arduino-uno-534fdd)
 
 [Inspiratie schema bloc](https://www.researchgate.net/figure/Fig-1-Block-Diagram-of-recently-used-in-robotic-car-construction_fig1_292072427)
 
