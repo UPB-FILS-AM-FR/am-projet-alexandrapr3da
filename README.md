@@ -41,7 +41,7 @@ Masina Controlata prin Modul WIFI
 | 2 x 250 x 160 x 3mm placa acrilic transparent | Placa pentru constructie	
 | 1 x L298N Driver (Punte H)	| Shield
 | 1 x Set suruburi si piloni hexagonali |	Suruburi si piloni
-| Modul Ultrasonic HC-SR04 | Modul pentru controlare WIFI	
+| Modul Ultrasonic HC-SR04 | Detecteaza distanta
 | 1 x Suport baterii (4 x AA ) | Suport baterii	
 | 1 x Suport baterie 9V cu mufa	| Suport baterie
 | 20 fire Mama Mama	| Fire conectare
