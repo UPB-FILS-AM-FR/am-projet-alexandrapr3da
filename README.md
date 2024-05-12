@@ -32,23 +32,19 @@ Masina Controlata prin Modul WIFI
 
 ### Components
 
-> -|--------|--------|-------|
--| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
--| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
--| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
--| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
-
-4 x Motoare de curent continuu
-4 x Roti
-4 x Fixari motoare
-2 x 250 x 160 x 3mm placa acrilic transparent
-1 x L298N Driver (Punte H)
-1 x Placa Arduino® UNO R4 WiFi
-1 x Set suruburi si piloni hexagonali
-1 x Modul Ultrasonic HC-SR04
-1 x Suport baterii (4 x AA )
-1 x Suport baterie 9V cu mufa 
-20 fire Mama Mama
+| Component | Description |
+|---------|-------------|
+| Placa Arduino® UNO R4 WiFi | Main microcontroller board	
+| 4 x Motoare de curent continuu |	Motoare	
+| 4 x Roti | Roti	
+| 4 x Fixari motoare |	Fixari pentru motoare	
+| 2 x 250 x 160 x 3mm placa acrilic transparent | Placa pentru constructie	
+| 1 x L298N Driver (Punte H)	| Shield
+| 1 x Set suruburi si piloni hexagonali |	Suruburi si piloni
+| Modul Ultrasonic HC-SR04 | Modul pentru controlare WIFI	
+| 1 x Suport baterii (4 x AA ) | Suport baterii	
+| 1 x Suport baterie 9V cu mufa	| Suport baterie
+| 20 fire Mama Mama	| Fire conectare
 
 ### Libraries
 #include "thingProperties.h"
